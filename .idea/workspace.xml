@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02be9f4b-18ec-462c-9160-1415c5cbdd0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1hPcOBhaY4dnaFaN6HFhLZ3oPYF" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02be9f4b-18ec-462c-9160-1415c5cbdd0a" name="Default Changelist" comment="" />
+      <created>1599916133443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599916133443</updated>
+      <workItem from="1599916134564" duration="3880000" />
+      <workItem from="1599920046664" duration="2683000" />
+      <workItem from="1599933177939" duration="110000" />
+      <workItem from="1599933342135" duration="100000" />
+      <workItem from="1599933468358" duration="20611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="29" width="997" height="697" key="SettingsEditor" timestamp="1599933440337">
+      <screen x="0" y="29" width="1366" height="697" />
+    </state>
+    <state x="179" y="29" width="997" height="697" key="SettingsEditor/0.29.1366.697@0.29.1366.697" timestamp="1599933440337" />
+    <state x="427" y="225" width="502" height="312" key="cloudConfig.PluginsDialog" timestamp="1599933493630">
+      <screen x="0" y="29" width="1366" height="697" />
+    </state>
+    <state x="427" y="225" width="502" height="312" key="cloudConfig.PluginsDialog/0.29.1366.697@0.29.1366.697" timestamp="1599933493630" />
+    <state x="0" y="29" width="609" height="697" key="find.popup" timestamp="1599919427011">
+      <screen x="0" y="29" width="1366" height="697" />
+    </state>
+    <state x="0" y="29" width="609" height="697" key="find.popup/0.29.1366.697@0.29.1366.697" timestamp="1599919427011" />
+  </component>
+</project>
